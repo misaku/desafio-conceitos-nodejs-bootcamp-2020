@@ -9,8 +9,8 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/misaku/desafio-conceitos-nodejs-bootcamp-2020?color=%2304D361">
 
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/Made%20by-Michel%20dos%20Santos%20Kuguio-%2304D361">
+  <a href="https://misaku.github.io">
+    <img alt="Made by Michel dos Santos Kuguio" src="https://img.shields.io/badge/made%20by-Michel%20dos%20Santos%20Kuguio-%2304D361">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
